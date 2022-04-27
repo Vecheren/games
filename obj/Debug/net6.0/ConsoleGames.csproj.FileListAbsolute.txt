@@ -1,0 +1,15 @@
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\obj\Debug\net6.0\ConsoleGames.csproj.AssemblyReference.cache
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\obj\Debug\net6.0\ConsoleGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\obj\Debug\net6.0\ConsoleGames.AssemblyInfoInputs.cache
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\obj\Debug\net6.0\ConsoleGames.AssemblyInfo.cs
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\obj\Debug\net6.0\ConsoleGames.csproj.CoreCompileInputs.cache
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\bin\Debug\net6.0\ConsoleGames.exe
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\bin\Debug\net6.0\ConsoleGames.deps.json
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\bin\Debug\net6.0\ConsoleGames.runtimeconfig.json
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\bin\Debug\net6.0\ConsoleGames.dll
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\bin\Debug\net6.0\ConsoleGames.pdb
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\obj\Debug\net6.0\ConsoleGames.dll
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\obj\Debug\net6.0\refint\ConsoleGames.dll
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\obj\Debug\net6.0\ConsoleGames.pdb
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\obj\Debug\net6.0\ConsoleGames.genruntimeconfig.cache
+C:\Users\veche\RiderProjects\ConsoleGames\ConsoleGames\obj\Debug\net6.0\ref\ConsoleGames.dll
